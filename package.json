@@ -1,0 +1,35 @@
+{
+  "name": "nodejs-express-mysql",
+  "version": "1.0.0",
+  "description": "Node.js Restful CRUD API with Node.js, Express and MySQL",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "mysql",
+    "restapi"
+  ],
+  "author": "bezkoder",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "express-validator": "^6.15.0",
+    "form-data": "^4.0.0",
+    "fs": "^0.0.1-security",
+    "g": "^2.0.1",
+    "input": "^1.0.1",
+    "moment": "^2.29.4",
+    "multer": "^1.4.5-lts.1",
+    "mysql": "^2.18.1",
+    "ngrok": "^4.3.3",
+    "node-fetch": "^2.6.9",
+    "nodemon": "^2.0.21",
+    "telegram": "^2.15.10"
+  }
+}
